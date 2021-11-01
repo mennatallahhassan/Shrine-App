@@ -1,5 +1,5 @@
 # Shrine-App
-### Lab 3: Flutter Layout Widgets (PART II)
+### Lab 4: Flutter Layout Widgets (PART II)
 
 ## Screenshots
 
@@ -19,4 +19,6 @@
 
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.
+
+#### Fall 202/2022 1Semester
 
