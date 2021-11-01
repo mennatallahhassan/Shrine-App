@@ -1,5 +1,5 @@
 # Shrine-App
-### Lab 4: Flutter Layout Widgets (PART II)
+#### Lab 4: Flutter Layout Widgets (PART II)
 
 ## Screenshots
 
