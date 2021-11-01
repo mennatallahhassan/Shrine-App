@@ -9,13 +9,13 @@
 
 ### Used API 30: Android 11 (R)
 Used Widgets:
-1- ListView
-2- Image
-3- TextField
-4- ElevatedButton
+1. ListView
+2. Image
+3. TextField
+4. ElevatedButton
   - TextButton
-5- ButtonBar
-6- Drawer
+5. ButtonBar
+6. Drawer
 
 
 ## License
