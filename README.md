@@ -8,7 +8,7 @@
 
 ### Used API 30: Android 11 (R)
 
-## Used Widgets:
+## Target Widgets:
 1. ListView
 2. Image
 3. TextField
