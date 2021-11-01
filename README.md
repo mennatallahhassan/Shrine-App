@@ -20,5 +20,5 @@
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-#### Fall 202/2022 1Semester
+#### Fall 2021/2022 Semester
 
