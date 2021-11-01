@@ -1,7 +1,7 @@
 # Shrine-App
 ###Lab 3: Flutter Layout Widgets (PART II)
 
-![Shrine App 1](https://drive.google.com/file/d/11UyCOqBNpKe4bNaq1f8zLSu7crspf-Jd/view?usp=sharing)
+![Shrine App 1](https://github.com/mennatallahhassan/Shrine-App/blob/main/screenshots/app.png)
 
 
 
