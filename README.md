@@ -9,12 +9,19 @@
 ### Used API 30: Android 11 (R)
 
 ## Target Widgets:
-1. ListView
-2. Image
-3. TextField
-4. ElevatedButton, TextButton
-5. ButtonBar
-6. Drawer
+1. Row and Column widgets
+1.1 mainAxisSize property
+1.2 mainAxisAlignment property
+1.3 crossAxisAlignment property
+
+2. SizedBox widget
+
+3. Text widget
+
+4. Icon widget
+
+5.Padding widget
+
 
 
 ## License
